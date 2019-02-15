@@ -13,4 +13,4 @@ https://serene-brushlands-11501.herokuapp.com/
 ## Additional Repositories
 
 - [On-chain Registry](https://github.com/michaelhly/0xptions-contracts): Keeps track of contract markets created on Augur.
-- [Python Relayer](https://github.com/officialcryptomaster/pydex): Hosts signed orders and handles order matching.
+- [Pydex](https://github.com/officialcryptomaster/pydex): An out-of-the-box python implementation of a SRA compliant 0x relayer
